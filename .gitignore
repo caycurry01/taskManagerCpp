@@ -1,2 +1,6 @@
+#default files that come with OS or ide
 .vscode
 .DS_Store
+
+# .exe file
+task_manager.exe

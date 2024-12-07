@@ -1,5 +1,5 @@
 # Task Manager
-### This is a simple console-based Task Manager application written in C++. The application allows users to manage their tasks efficiently by adding, updating, deleting, and marking tasks as complete.
+### This is a simple console-based Task Manager application written in C++. The application allows users to manage their tasks efficiently by adding, updating, and deleting tasks.
 
 ## Features
 - Add new tasks
